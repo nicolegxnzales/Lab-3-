@@ -1,4 +1,4 @@
-# Lab-3-
+# Lab 3
 Pyton code 
 # Lab 3: Department Sales Calculation Program
 
